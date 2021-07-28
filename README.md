@@ -1,0 +1,2 @@
+# Industrial-Defect-Inspection-segmentation
+ 
